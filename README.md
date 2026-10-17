@@ -1,4 +1,4 @@
-# 🥗 Labelwise
+# 🥗 VeriFood
 
 ### Food labels, made clearer.
 
