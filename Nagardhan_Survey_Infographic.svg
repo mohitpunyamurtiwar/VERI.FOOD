@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1600" viewBox="0 0 1080 1600" role="img" aria-labelledby="title desc">
+<title id="title">Nagardhan in Focus — Community Survey</title>
+<desc id="desc">A redesigned infographic summarizing survey results on livelihoods, scheme awareness, services, and community priorities in Nagardhan village.</desc>
+<defs>
+  <pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.5" fill="#F4C95D" opacity=".22"/></pattern>
+  <linearGradient id="hero" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#183B4E"/><stop offset="1" stop-color="#245A61"/></linearGradient>
+  <style>
+   text{font-family:Arial,Helvetica,sans-serif} .ink{fill:#173745}.muted{fill:#62767A}.small{font-size:15px}.label{font-size:16px;font-weight:700;letter-spacing:1.1px}.card{fill:#FFFEFA;stroke:#E6E1D5;stroke-width:2}.section{font-size:21px;font-weight:800;letter-spacing:.5px;fill:#173745}.body{font-size:17px;fill:#465E64}
+  </style>
+</defs>
+<!-- page -->
+<rect width="1080" height="1600" fill="#F5F2E9"/>
+<!-- hero -->
+<rect x="0" y="0" width="1080" height="300" fill="url(#hero)"/>
+<rect x="0" y="0" width="1080" height="300" fill="url(#dots)"/>
+<circle cx="944" cy="118" r="117" fill="#F4C95D" opacity=".12"/>
+<circle cx="944" cy="118" r="80" fill="none" stroke="#F4C95D" stroke-width="2" opacity=".45"/>
+<path d="M854 180h182M875 157l29-35 28 27 28-47 30 31 26-28" fill="none" stroke="#F4C95D" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="932" cy="149" r="7" fill="#F4C95D"/><circle cx="960" cy="102" r="7" fill="#F4C95D"/>
+<text x="58" y="55" fill="#F4C95D" font-size="16" font-weight="700" letter-spacing="2">NAGARDHAN  /  COMMUNITY SURVEY</text>
+<text x="58" y="132" fill="#FFFDF7" font-size="61" font-weight="800" letter-spacing="-1">LOCAL LIVELIHOODS,</text>
+<text x="58" y="198" fill="#FFFDF7" font-size="61" font-weight="800" letter-spacing="-1">LOCAL PRIORITIES</text>
+<text x="60" y="242" fill="#D7E5DE" font-size="21">What respondents shared about opportunity, awareness and support</text>
+<rect x="58" y="263" width="520" height="27" rx="13" fill="#F4C95D"/>
+<text x="74" y="282" fill="#173745" font-size="14" font-weight="700">A LOCAL SNAPSHOT  •  ITEM SAMPLE SIZES VARY (n=9–50)</text>
+<!-- metric cards -->
+<g>
+ <rect class="card" x="48" y="325" width="238" height="166" rx="20"/>
+ <rect x="48" y="325" width="238" height="8" rx="4" fill="#E57855"/>
+ <text x="70" y="380" fill="#E57855" font-size="44" font-weight="800">11%</text>
+ <text x="70" y="411" class="ink" font-size="17" font-weight="700">Aware of the Abhiyan</text>
+ <text x="70" y="445" class="muted small">1 of 9 respondents</text>
+ <text x="70" y="468" class="muted small">Q15 · n=9</text>
+
+ <rect class="card" x="302" y="325" width="238" height="166" rx="20"/>
+ <rect x="302" y="325" width="238" height="8" rx="4" fill="#365C7D"/>
+ <text x="324" y="380" fill="#365C7D" font-size="44" font-weight="800">0 / 10</text>
+ <text x="324" y="411" class="ink" font-size="17" font-weight="700">Received start-up support</text>
+ <text x="324" y="445" class="muted small">No respondent reported support</text>
+ <text x="324" y="468" class="muted small">Q19 · n=10</text>
+
+ <rect class="card" x="556" y="325" width="226" height="166" rx="20"/>
+ <rect x="556" y="325" width="226" height="8" rx="4" fill="#4E8064"/>
+ <text x="578" y="380" fill="#4E8064" font-size="44" font-weight="800">46.7%</text>
+ <text x="578" y="411" class="ink" font-size="17" font-weight="700">Farming is the main job</text>
+ <text x="578" y="445" class="muted small">7 of 15 respondents</text>
+ <text x="578" y="468" class="muted small">Q13 · n=15</text>
+
+ <rect class="card" x="798" y="325" width="234" height="166" rx="20"/>
+ <rect x="798" y="325" width="234" height="8" rx="4" fill="#D2A637"/>
+ <text x="820" y="380" fill="#A57B16" font-size="44" font-weight="800">75%</text>
+ <text x="820" y="411" class="ink" font-size="17" font-weight="700">Youth seen as not interested</text>
+ <text x="820" y="445" class="muted small">9 of 12 respondents</text>
+ <text x="820" y="468" class="muted small">Q25 · n=12</text>
+</g>
+<!-- insights -->
+<text x="52" y="541" class="label" fill="#4E8064">01  /  WHAT THE SURVEY SAYS</text>
+<!-- awareness card -->
+<rect class="card" x="48" y="562" width="480" height="257" rx="20"/>
+<text x="76" y="601" class="section">Awareness gap</text>
+<text x="76" y="638" class="body">Campaign awareness has barely reached respondents.</text>
+<text x="76" y="683" class="ink" font-size="16" font-weight="700">Knows about the Abhiyan</text>
+<rect x="76" y="697" width="414" height="14" rx="7" fill="#ECE8DC"/>
+<rect x="76" y="697" width="46" height="14" rx="7" fill="#E57855"/>
+<text x="76" y="736" class="muted small">1 of 9 aware</text><text x="430" y="736" class="muted small">8 unaware</text>
+<line x1="76" y1="756" x2="500" y2="756" stroke="#E6E1D5" stroke-width="2"/>
+<text x="76" y="785" fill="#E57855" font-size="20" font-weight="800">0 of 11</text>
+<text x="177" y="785" class="body">understood “self-reliant” (Q17)</text>
+<text x="76" y="807" class="muted small">No awareness-drive participation reported by 12/12 (Q24).</text>
+<!-- services card -->
+<rect class="card" x="552" y="562" width="480" height="257" rx="20"/>
+<text x="580" y="601" class="section">Everyday essentials</text>
+<text x="580" y="638" class="body">Access is incomplete for most surveyed households.</text>
+<text x="580" y="683" class="ink" font-size="16" font-weight="700">Only some of four basic services</text>
+<rect x="580" y="697" width="414" height="14" rx="7" fill="#ECE8DC"/>
+<rect x="580" y="697" width="359" height="14" rx="7" fill="#365C7D"/>
+<text x="580" y="736" class="muted small">13 of 15 respondents · 86.7% (Q11)</text>
+<line x1="580" y1="756" x2="1004" y2="756" stroke="#E6E1D5" stroke-width="2"/>
+<text x="580" y="785" fill="#4E8064" font-size="20" font-weight="800">80%</text>
+<text x="648" y="785" class="body">said drinking water is available year-round</text>
+<text x="580" y="807" class="muted small">12 of 15 respondents; 3 reported seasonal gaps (Q12).</text>
+<!-- issues chart -->
+<rect class="card" x="48" y="841" width="610" height="319" rx="20"/>
+<text x="76" y="881" class="section">Top village concerns</text>
+<text x="76" y="909" class="muted small">Responses to Q9 · n=50 · counts shown</text>
+<g font-size="16" fill="#465E64">
+ <text x="76" y="952">Unemployment</text><rect x="225" y="935" width="330" height="22" rx="11" fill="#ECE8DC"/><rect x="225" y="935" width="330" height="22" rx="11" fill="#E57855"/><text x="573" y="952" font-weight="700">18</text>
+ <text x="76" y="994">Roads</text><rect x="225" y="977" width="330" height="22" rx="11" fill="#ECE8DC"/><rect x="225" y="977" width="202" height="22" rx="11" fill="#365C7D"/><text x="573" y="994" font-weight="700">11</text>
+ <text x="76" y="1036">Water</text><rect x="225" y="1019" width="330" height="22" rx="11" fill="#ECE8DC"/><rect x="225" y="1019" width="165" height="22" rx="11" fill="#4E8064"/><text x="573" y="1036" font-weight="700">9</text>
+ <text x="76" y="1078">Health</text><rect x="225" y="1061" width="330" height="22" rx="11" fill="#ECE8DC"/><rect x="225" y="1061" width="128" height="22" rx="11" fill="#D2A637"/><text x="573" y="1078" font-weight="700">7</text>
+ <text x="76" y="1120">Other</text><rect x="225" y="1103" width="330" height="22" rx="11" fill="#ECE8DC"/><rect x="225" y="1103" width="92" height="22" rx="11" fill="#899C8F"/><text x="573" y="1120" font-weight="700">5</text>
+</g>
+<text x="76" y="1145" class="muted small">Unemployment was named most often (36% of responses).</text>
+<!-- livelihood card -->
+<rect class="card" x="680" y="841" width="352" height="319" rx="20"/>
+<text x="708" y="881" class="section">Income mix</text>
+<text x="708" y="909" class="muted small">Q13–14 · n=15</text>
+<circle cx="845" cy="1013" r="72" fill="none" stroke="#ECE8DC" stroke-width="24"/>
+<circle cx="845" cy="1013" r="72" fill="none" stroke="#4E8064" stroke-width="24" stroke-dasharray="211 452" transform="rotate(-90 845 1013)"/>
+<text x="845" y="1009" text-anchor="middle" class="ink" font-size="28" font-weight="800">7 / 15</text>
+<text x="845" y="1034" text-anchor="middle" class="muted small">farmers</text>
+<circle cx="716" cy="1105" r="6" fill="#4E8064"/><text x="732" y="1111" class="body">46.7% farming</text>
+<circle cx="716" cy="1132" r="6" fill="#E57855"/><text x="732" y="1138" class="body">10 of 15 had no non-farm work</text>
+<text x="708" y="1154" class="muted small">No respondents reported service jobs.</text>
+<!-- action strip -->
+<rect x="48" y="1184" width="984" height="267" rx="22" fill="#183B4E"/>
+<text x="78" y="1228" fill="#F4C95D" class="label">02  /  PRACTICAL NEXT STEPS</text>
+<text x="78" y="1266" fill="#FFFDF7" font-size="29" font-weight="800">Turn the findings into local action</text>
+<g>
+ <circle cx="93" cy="1317" r="17" fill="#F4C95D"/><text x="93" y="1323" text-anchor="middle" fill="#183B4E" font-size="16" font-weight="800">1</text>
+ <text x="125" y="1315" fill="#FFFDF7" font-size="18" font-weight="700">Explain schemes in Marathi</text>
+ <text x="125" y="1340" fill="#D7E5DE" font-size="15">Use Gram Sabha meetings, local examples and a Panchayat information contact.</text>
+ <circle cx="93" cy="1380" r="17" fill="#F4C95D"/><text x="93" y="1386" text-anchor="middle" fill="#183B4E" font-size="16" font-weight="800">2</text>
+ <text x="125" y="1378" fill="#FFFDF7" font-size="18" font-weight="700">Bring support closer</text>
+ <text x="125" y="1403" fill="#D7E5DE" font-size="15">Host a bank and government loan / subsidy camp with help completing forms.</text>
+ <circle cx="657" cy="1317" r="17" fill="#F4C95D"/><text x="657" y="1323" text-anchor="middle" fill="#183B4E" font-size="16" font-weight="800">3</text>
+ <text x="689" y="1315" fill="#FFFDF7" font-size="18" font-weight="700">Build options beyond farming</text>
+ <text x="689" y="1340" fill="#D7E5DE" font-size="15">Pair youth skills in tailoring, dairy or food processing with market links.</text>
+ <circle cx="657" cy="1380" r="17" fill="#F4C95D"/><text x="657" y="1386" text-anchor="middle" fill="#183B4E" font-size="16" font-weight="800">4</text>
+ <text x="689" y="1378" fill="#FFFDF7" font-size="18" font-weight="700">Widen who gets heard</text>
+ <text x="689" y="1403" fill="#D7E5DE" font-size="15">Include women and 18–30-year-olds in the next survey round.</text>
+</g>
+<!-- footnote -->
+<text x="54" y="1490" fill="#173745" font-size="15" font-weight="700">READ THIS AS A LOCAL SNAPSHOT</text>
+<text x="54" y="1518" class="muted" font-size="14">Question sample sizes differ by section (A n=10; B n=50; C n=15; D n=9–11; F n=10; G n=12).</text>
+<text x="54" y="1542" class="muted" font-size="14">Small respondent groups; results describe participants and should not be read as village-wide estimates.</text>
+<rect x="0" y="1570" width="1080" height="30" fill="#F4C95D"/>
+<text x="540" y="1591" text-anchor="middle" fill="#173745" font-size="13" font-weight="700" letter-spacing="1">NAGARDHAN  •  LISTEN LOCALLY  •  ACT TOGETHER</text>
+</svg>
